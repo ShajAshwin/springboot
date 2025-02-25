@@ -1,4 +1,4 @@
-package com.example.quizApp;
+package com.springboot.quizApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

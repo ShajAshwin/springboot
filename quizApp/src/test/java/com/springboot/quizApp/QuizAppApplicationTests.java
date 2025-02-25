@@ -1,4 +1,4 @@
-package com.example.quizApp;
+package com.springboot.quizApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
